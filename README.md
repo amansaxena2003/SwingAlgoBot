@@ -1,0 +1,2 @@
+# SwingAlgoBot
+Swing Stock 
